@@ -2,7 +2,7 @@
 ### May 28, 2019 - Majdi Saibi
 
 ### Abstract
-Are you a software developer? DevOps engineer? or a web developer? Did you hear about Azure? About GitHub? Join us to learn how to take a web application from our local dev environment to production in an easy way using GitHub and Azure Pipelines. We will learn together how to create a web application, push it to GitHub. Once our application is in GitHub, we will try to set up continuous integration and continuous deployment (CI/CD) process using Azure DevOps platform.
+Are you a software developer? DevOps engineer? or a web developer? Did you hear about Azure? About GitHub? Join us to learn how to take a web application from our local dev environment to production in an easy way using GitHub and [Azure Pipelines](https://azure.microsoft.com/en-ca/services/devops/pipelines/). We will learn together how to create a web application, push it to GitHub. Once our application is in GitHub, we will try to set up continuous integration and continuous deployment (CI/CD) process using [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) platform.
 
 ### Speaker Bio
 I'm Majdi. Currently working as web team Technical Lead at [Riva CRM Integration](https://www.rivacrmintegration.com/). I joined Riva as Software Developer almost two years ago. Before joining that, I was [Microsoft Student Partner](https://studentpartners.microsoft.com/en-us) for three years where I learned to share my knowledge with other people and learn from them.
